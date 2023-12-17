@@ -25,7 +25,7 @@
     - Ascending/descending order in an array.
     - ...
 
-17. Handle a page that is applied `lazy loading`.
+17. Handle a page that has `lazy loading`.
 18. Why do you apply `Page Object Model`?
 19. Which OOP characteristics do you like most?
 20. Please tell me about `super` and `this`?
