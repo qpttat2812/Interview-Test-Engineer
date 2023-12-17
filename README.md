@@ -25,7 +25,7 @@
     - Ascending/descending order in an array.
     - ...
 
-17. Handle a page that has `lazy loading`.
+17. Handle a page that has `lazy loading` (my coding assignment - then present the solution in onsite interview)
 18. Why do you apply `Page Object Model`?
 19. Which OOP characteristics do you like most?
 20. Please tell me about `super` and `this`?
@@ -41,6 +41,9 @@
 30. Tell me more about BDD.
 31. How do you manage test data in your project?
 32. Which SVC do you use? How to resolve conflict?
+33. How do you debug in the console?
+34. The difference between your real testing browser and automation testing browser.
+35. The difference between native app and web app.
 
 ### Manual Test Questions:
 1. Please tell me about SDLC, STLC.
