@@ -21,6 +21,8 @@
     - Find the third largest number in an array.
     - Find the duplicate number in an array.
     - Locate elements in a simple page.
+    - Palindrome.
+    - Ascending/descending order in an array.
     - ...
 
 17. Handle a page that is applied `lazy loading`.
@@ -62,7 +64,7 @@
 They gave me some advanced SQL questions, then I had to give my solutions. There were some questions they had asked while I was answering.
 
 - Left join, inner join. And why I chose left join (I remembered a table is `Users`, another is `Banks` with key is bank ID).
-- They tested the knowledge about SQL query order why I gave them the solution.
+- They tested the knowledge about SQL query order while I gave them the solution.
 - Subquery, CTE.
 - SQL Funtions.
 
