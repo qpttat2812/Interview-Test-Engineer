@@ -25,7 +25,7 @@
     - Ascending/descending order in an array.
     - ...
 
-17. Handle a page that has `lazy loading` (my coding assignment - then present the solution in onsite interview)
+17. Handle a page that has `lazy loading` (my coding assignment - then present the solution in onsite interview and discuss with interviewers)
 18. Why do you apply `Page Object Model`?
 19. Which OOP characteristics do you like most?
 20. Please tell me about `super` and `this`?
@@ -61,7 +61,8 @@
 13. Tell me about tester role in Scrum?
 14. How are the requirements written in Scrum?
 15. Bug Life Cylce.
-16. Some behavioral testing questions.
+16. Severity, priority.
+17. Some behavioral testing questions.
 
 ### Database Questions: (I had Advanced SQL certificate in Hackerrank)
 They gave me some advanced SQL questions, then I had to give my solutions. There were some questions they had asked while I was answering.
