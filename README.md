@@ -27,7 +27,7 @@
 18. Why do you apply `Page Object Model`?
 19. Which OOP characteristics do you like most?
 20. Please tell me about `super` and `this`?
-21. Do you any design pattern? Tell me the detail of those patterns.
+21. Do you use any design pattern? Tell me the detail of those patterns.
 22. Do you know about CI/CD?
 23. Which tools do you use to query database?
 24. Do you have any experience in Browser Stack?
