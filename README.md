@@ -60,7 +60,7 @@
 15. Bug Life Cylce.
 16. Some behavioral testing questions.
 
-### Database Questions:
+### Database Questions: (I had Advanced SQL certificate in Hackerrank)
 They gave me some advanced SQL questions, then I had to give my solutions. There were some questions they had asked while I was answering.
 
 - Left join, inner join. And why I chose left join (I remembered a table is `Users`, another is `Banks` with key is bank ID).
@@ -68,5 +68,5 @@ They gave me some advanced SQL questions, then I had to give my solutions. There
 - Subquery, CTE.
 - SQL Funtions.
 
-### Data Questions:
+### Data Questions: (related to my previous experience)
 - Some questions related to Azure, Visualization, Google Cloud. 
